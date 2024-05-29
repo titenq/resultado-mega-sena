@@ -1,9 +1,9 @@
 ![](https://img.shields.io/github/stars/titenq/resultado-mega-sena.svg) ![](https://img.shields.io/github/forks/titenq/resultado-mega-sena.svg) ![](https://img.shields.io/github/issues/titenq/resultado-mega-sena.svg) 
 
-### Jogo da Memória Cartoon
-Resultado Mega-Sena
+### Resultado Mega-Sena
+Resultado da Mega-Sena com busca pelo número do concurso
 
-### Demo
+### Site
 [https://titenq.github.io/resultado-mega-sena/](https://titenq.github.io/resultado-mega-sena/ "https://titenq.github.io/resultado-mega-sena/")
 
 ### Tecnologias
