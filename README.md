@@ -13,4 +13,4 @@ Resultado da Mega-Sena com busca pelo número do concurso
 
 ### Screenshot
 
-![](https://github.com/titenq/resultado-mega-sena/blob/master/screenshot.png?raw=true)
+![JZxbkpR.png](https://iili.io/JZxbkpR.png)
